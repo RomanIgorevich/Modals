@@ -1,0 +1,20 @@
+label {
+  display: block;
+  font-size: 16px;
+  margin-top: 25px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+input {
+  padding: 16px 26px;
+  margin-bottom: 0px;
+  border-radius: 10px;
+}
+textarea {
+  padding: 16px 26px;
+  border-radius: 10px;
+  min-height: 100px;
+}
+input, textarea {
+  width: 100%;
+}
