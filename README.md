@@ -1,5 +1,13 @@
 # modals
 
+This project has been implemented:
+ 
+- Model for working with forms;
+- UI component of the modal window;
+- Close the modal window by clicking on the cross, area or ESC;
+- Validation of incoming parameters;
+- Building complex animations.
+
 ## Project setup
 ```
 npm install
